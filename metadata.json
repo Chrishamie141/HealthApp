@@ -1,0 +1,5 @@
+{
+  "name": "Pulse - Apple Watch Fitness Analyzer",
+  "description": "Analyze your Apple Health data to track steps, calories, and workouts against your fitness goals using AI-powered insights.",
+  "requestFramePermissions": []
+}
